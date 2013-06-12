@@ -37,7 +37,7 @@ Marketing objectives:
 
 More information:
 ============
-- Overview: http://www.ozekiphone.com/index.php?owpn=328
+- Overview: http://www.ozekiphone.com/index.php?owpn=628
 - Key Features: http://www.ozekiphone.com/index.php?owpn=640
 - FAQ: http://www.ozekiphone.com/index.php?owpn=648
 - Product video: http://www.ozekiphone.com/index.php?owpn=649
