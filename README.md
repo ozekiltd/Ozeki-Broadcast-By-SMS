@@ -37,10 +37,10 @@ Marketing objectives:
 
 More information:
 ============
-Overview: http://www.ozekiphone.com/index.php?owpn=328
-Key Features: http://www.ozekiphone.com/index.php?owpn=640
-FAQ: http://www.ozekiphone.com/index.php?owpn=648
-Product video: http://www.ozekiphone.com/index.php?owpn=649
-For developers: http://www.ozekiphone.com/index.php?owpn=650
-Installer: http://www.ozekiphone.com/examples/OPSSMSSender.zip
-Source code: http://www.ozekiphone.com/examples/OPSSMSSender_source.zip
+- Overview: http://www.ozekiphone.com/index.php?owpn=328
+- Key Features: http://www.ozekiphone.com/index.php?owpn=640
+- FAQ: http://www.ozekiphone.com/index.php?owpn=648
+- Product video: http://www.ozekiphone.com/index.php?owpn=649
+- For developers: http://www.ozekiphone.com/index.php?owpn=650
+- Installer: http://www.ozekiphone.com/examples/OPSSMSSender.zip
+- Source code: http://www.ozekiphone.com/examples/OPSSMSSender_source.zip
